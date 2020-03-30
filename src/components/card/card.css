@@ -1,0 +1,33 @@
+.main-card-wrapper{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    height: 300px;
+    width: 200px;
+    border: 1px solid black;
+    
+}
+
+.form-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    text-align: start; 
+}
+
+.field{
+}
+
+.field input{
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid black;
+}
+
+.form-button{
+   
+}
